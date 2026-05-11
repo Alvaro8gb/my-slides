@@ -1,4 +1,4 @@
-# my_slides
+# MY SLIDES
 
 
 A personal repository for storing and organising my presentations published via GitHub Pages.
